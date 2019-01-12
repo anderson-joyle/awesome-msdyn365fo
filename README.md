@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Add-ins](#add-ins)
   - [Scripts](#scripts)
   - [Other utilities](#other-utilities)
+  - [Who to follow](#who-to-follow)
 
 - - -
 
@@ -34,3 +35,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Other useful programs*
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
+
+
+## Who to follow
+
+*People that add great value to community and often share good hints*
+
+* [Martin Dráb](https://twitter.com/goshoom) - Microsoft MVP.
+* [Joris de Gruyter](https://twitter.com/jorisdg) - Sr software engineer Microsoft.
+* [Ali Adamu](https://twitter.com/aliadamu_ms) - Microsoft PFE team.
+* [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
+* [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP

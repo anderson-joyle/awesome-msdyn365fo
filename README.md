@@ -1,15 +1,24 @@
-# Awesome MS Dynamics 365 for Finance and Operations
+# Awesome MSDYN365FO!
 A curated list of awesome Microsoft Dynamics 365 Finance and Operations repositories, blogs, documents and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - Awesome MSDYN365FO
+  - [Microsoft's](#microsofts)
   - [Add-ins](#add-ins)
   - [Scripts](#scripts)
   - [Other utilities](#other-utilities)
   - [Who to follow](#who-to-follow)
+  - [Other awesomeness](#other-awesomeness)
 
 - - -
+
+## Microsoft's
+
+*Official Microsoft's stuff*
+
+* [Dynamics365-FinOps-DevOps](https://github.com/microsoft/dynamics365-finops-devops) - Contains scripts, samples and guidance on setting up a DevOps pipeline for D365FO.
+* [Recurring-Integrations-Scheduler](https://github.com/Microsoft/Recurring-Integrations-Scheduler) - File-based integration solution for D365FO.
 
 ## Add-ins
 
@@ -46,3 +55,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ali Adamu](https://twitter.com/aliadamu_ms) - Microsoft PFE team.
 * [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
 * [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP
+
+## Other awesomeness
+
+*Other related technologies awesome lists*
+
+* [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+* [Awesome Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+* [Awesome free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
+

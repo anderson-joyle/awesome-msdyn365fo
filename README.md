@@ -19,6 +19,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Dynamics365-FinOps-DevOps](https://github.com/microsoft/dynamics365-finops-devops) - Contains scripts, samples and guidance on setting up a DevOps pipeline for D365FO.
 * [Recurring-Integrations-Scheduler](https://github.com/Microsoft/Recurring-Integrations-Scheduler) - File-based integration solution for D365FO.
+* [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
 
 ## Add-ins
 

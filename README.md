@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [D365FO-Prepare-D365DevelopmentMachine](https://github.com/dodiggitydag/D365FO-Prepare-D365DevelopmentMachine) - Script for preparing a development machine for D365FO by installing additional tools and configuring the operating system automatically.
 * [d365fo.tools](https://github.com/d365collaborative/d365fo.tools) - Powershell module to handle the different management tasks
+* [d365fo.integrations](https://github.com/d365collaborative/d365fo.integrations) - Powershell functions for integration with D365FO.
 
 
 ## Other utilities

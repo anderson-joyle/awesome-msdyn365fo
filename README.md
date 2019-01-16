@@ -8,6 +8,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Add-ins](#add-ins)
   - [Scripts](#scripts)
   - [Other utilities](#other-utilities)
+  - [Resources](#resources)
+    - [Youtube channels](youtube-channels)
   - [Who to follow](#who-to-follow)
   - [Other awesomeness](#other-awesomeness)
 
@@ -46,6 +48,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Other useful programs*
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
+
+## Resources
+
+*Resources with good learn material*
+
+### Youtube channels
+* [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed to software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
+* [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.
 
 
 ## Who to follow

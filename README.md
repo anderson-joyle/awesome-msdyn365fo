@@ -33,6 +33,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [D365FO-ExcelFinancialDimensionLookups](https://github.com/anderson-joyle/D365FO-ExcelFinancialDimensionLookups) - Works as a complement of "Add financial dimensions for OData" native add-in.
 * [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens latest reporting service log file. Useful to troubleshooting report problems.
 
+## X++ code examples
+
+*Repositories containing X++ code examples*
+
+* [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples
 
 ## Scripts
 

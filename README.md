@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Recurring-Integrations-Scheduler](https://github.com/Microsoft/Recurring-Integrations-Scheduler) - File-based integration solution for D365FO.
 * [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
-* [ Dynamics-365-FastTrack-Implementation-Assets Public] https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets
+* [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets
 
 ## Add-ins
 

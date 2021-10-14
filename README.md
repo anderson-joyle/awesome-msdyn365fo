@@ -20,9 +20,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Official Microsoft's stuff*
 
-* [Dynamics365-FinOps-DevOps](https://github.com/microsoft/dynamics365-finops-devops) - Contains scripts, samples and guidance on setting up a DevOps pipeline for D365FO.
+* [Dynamics365-FinOps-DevOps](https://github.com/microsoft/Dynamics365-Xpp-Samples-Tools) - Contains scripts, samples and guidance on setting up a DevOps pipeline for D365FO.
 * [Recurring-Integrations-Scheduler](https://github.com/Microsoft/Recurring-Integrations-Scheduler) - File-based integration solution for D365FO.
 * [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
+* [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
+* [ Dynamics-365-FastTrack-Implementation-Assets Public] https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets
 
 ## Add-ins
 
@@ -40,6 +42,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Repositories containing X++ code examples*
 
 * [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples
+* [AOT Browser](https://github.com/arbelatech/aotbrowser) - Dynamics 365 for Finance and Operations AOT Browser
+* [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.
 
 ## Scripts
 
@@ -57,6 +61,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Other useful programs*
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
+* [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app
 
 ## Resources
 

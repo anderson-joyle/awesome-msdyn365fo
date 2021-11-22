@@ -67,6 +67,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Resources with good learn material*
 
+* [Microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dynamics-365&products=dynamics-finance-operations%2Cdynamics-scm&roles=developer) - Official free Microsoft Dynamics 365FO trainings 
+* [Dynamics 365 Success by Design Implementation Guide](https://www.d365implementationguide.com/books/asvr/#p=1) - Dynamics 365 Implementation Guide interactive book
+* [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare to D365FO related certifications(but may be blocked from US or other locations)
+* [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks) - FastTrack TechTalks provide technical and functional best practices and guidance for Dynamics 365 deployments.
+
 ### Youtube channels
 * [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed to software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.

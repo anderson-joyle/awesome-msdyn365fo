@@ -77,7 +77,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.
 
 
-## Who to follow
+## People to follow
 
 *People that add great value to community and often share good hints*
 

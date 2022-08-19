@@ -71,6 +71,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamics 365 Success by Design Implementation Guide](https://www.d365implementationguide.com/books/asvr/#p=1) - Dynamics 365 Implementation Guide interactive book
 * [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare to D365FO related certifications(but may be blocked from US or other locations)
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks) - FastTrack TechTalks provide technical and functional best practices and guidance for Dynamics 365 deployments.
+* [Dynamics 365 FastTrack Architecture Insights](https://docs.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/) - Recommended implementation practices across Customer Engagement and Finance & Operations apps. The content is created and shared by the solution architects from Dynamics 365 engineering team.
 
 ### Youtube channels
 * [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed to software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.

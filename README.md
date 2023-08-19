@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [d365fo.integrations](https://github.com/d365collaborative/d365fo.integrations) - Powershell functions for integration with D365FO.
 * [DynamicsAxTools](https://github.com/bferreti/DynamicsAxTools) - Scripts set to monitor and generate AX performance reports. 
 * [Dynamics365-Xpp-Samples-Tools](https://github.com/bferreti/DynamicsAxTools) - Contains samples of code, scripts and tools related to X++ or X++ tools.
+* [TRUD Scripts](https://github.com/TrudAX/TRUDScripts/tree/master/D365FO) - Scripts to manage D365FO development process
 
 
 ## Other utilities

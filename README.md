@@ -35,7 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [D365FONinjaDevTools](https://github.com/HichemDax/D365FONinjaDevTools) - A set of add-ins to perform quickly common development tasks.
 * [SSD365VSAddIn](https://github.com/shashisadasivan/SSD365VSAddIn) - A set of add-ins to perform quickly common development tasks.
 * [D365FO-ExcelFinancialDimensionLookups](https://github.com/anderson-joyle/D365FO-ExcelFinancialDimensionLookups) - Works as a complement of "Add financial dimensions for OData" native add-in.
-* [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens latest reporting service log file. Useful to troubleshooting report problems.
+* [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens latest reporting service log file. Useful to troubleshoot report problems.
 
 ## X++ code examples
 
@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples
 * [AOT Browser](https://github.com/arbelatech/aotbrowser) - Dynamics 365 for Finance and Operations AOT Browser
 * [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.
+* [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon
 
 ## Scripts
 
@@ -66,30 +67,30 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Resources
 
-*Resources with good learn material*
+*Resources with good learning material*
 
 * [Microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dynamics-365&products=dynamics-finance-operations%2Cdynamics-scm&roles=developer) - Official free Microsoft Dynamics 365FO trainings 
 * [Dynamics 365 Success by Design Implementation Guide](https://www.d365implementationguide.com/books/asvr/#p=1) - Dynamics 365 Implementation Guide interactive book
-* [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare to D365FO related certifications(but may be blocked from US or other locations)
+* [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare for D365FO related certifications(but may be blocked from the US or other locations)
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks) - FastTrack TechTalks provide technical and functional best practices and guidance for Dynamics 365 deployments.
-* [Dynamics 365 FastTrack Architecture Insights](https://docs.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/) - Recommended implementation practices across Customer Engagement and Finance & Operations apps. The content is created and shared by the solution architects from Dynamics 365 engineering team.
+* [Dynamics 365 FastTrack Architecture Insights](https://docs.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/) - Recommended implementation practices across Customer Engagement and Finance & Operations apps. The content is created and shared by the solution architects from the Dynamics 365 engineering team.
 
 ### Youtube channels
-* [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed to software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
+* [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed at software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.
+* [Microsoft Dynamics 365 Community](https://www.youtube.com/@MSD365Community) - Microsoft Dynamics 365 Community channel
 
 
 ## People to follow
 
-*People that add great value to community and often share good hints*
+*People that add great value to the community and often share good hints*
 
-* [Martin Dráb](https://twitter.com/goshoom) - Microsoft MVP.
 * [Joris de Gruyter](https://twitter.com/jorisdg) - Sr software engineer Microsoft.
 * [Ali Adamu](https://twitter.com/aliadamu_ms) - Microsoft PFE team.
 * [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
 * [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP
 * [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP
-* [Adrià Ariste](https://twitter.com/adria_ariste) - Microsoft MVP
+* [Who to follow on LinkedIn to stay informed about D365FO](https://www.linkedin.com/pulse/who-follow-linkedin-stay-informed-d365fo-hylke-britstra-26qve/) - LinkedIn list from Hylke Britstra
 
 ## Other awesomeness
 

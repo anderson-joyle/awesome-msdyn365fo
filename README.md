@@ -35,16 +35,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [D365FONinjaDevTools](https://github.com/HichemDax/D365FONinjaDevTools) - A set of add-ins to perform quickly common development tasks.
 * [SSD365VSAddIn](https://github.com/shashisadasivan/SSD365VSAddIn) - A set of add-ins to perform quickly common development tasks.
 * [D365FO-ExcelFinancialDimensionLookups](https://github.com/anderson-joyle/D365FO-ExcelFinancialDimensionLookups) - Works as a complement of "Add financial dimensions for OData" native add-in.
-* [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens latest reporting service log file. Useful to troubleshoot report problems.
+* [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens the latest reporting service log file. Useful to troubleshoot report problems.
 
 ## X++ code examples
 
-*Repositories containing X++ code examples*
+*Repositories containing X++ code*
 
 * [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples
 * [AOT Browser](https://github.com/arbelatech/aotbrowser) - Dynamics 365 for Finance and Operations AOT Browser
-* [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.
+* [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations
 * [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon
+* [D365FOAdminToolkit](https://github.com/ameyer505/D365FOAdminToolkit) - A D365FO administrative toolkit built by the community for the community
 
 ## Scripts
 
@@ -85,8 +86,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *People that add great value to the community and often share good hints*
 
-* [Joris de Gruyter](https://twitter.com/jorisdg) - Sr software engineer Microsoft.
-* [Ali Adamu](https://twitter.com/aliadamu_ms) - Microsoft PFE team.
+* [Mötz Jensen](https://twitter.com/splaxi) - Co-Author on the #D365FOTools powershell module
 * [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
 * [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP
 * [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP

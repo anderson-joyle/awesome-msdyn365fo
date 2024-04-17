@@ -90,6 +90,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
 * [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP
 * [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP
+* [Denis Trunin](https://denistrunin.com/about/) - Curator of this list and future MVP.
 * [Who to follow on LinkedIn to stay informed about D365FO](https://www.linkedin.com/pulse/who-follow-linkedin-stay-informed-d365fo-hylke-britstra-26qve/) - LinkedIn list from Hylke Britstra
 
 ## Other awesomeness

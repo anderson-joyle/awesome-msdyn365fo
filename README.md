@@ -6,12 +6,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Awesome MSDYN365FO
   - [Microsoft's](#microsofts)
   - [Add-ins](#add-ins)
-  - [X++ code samples](x++-code-sample)
+  - [X++ code examples](#x-code-examples)
   - [Scripts](#scripts)
   - [Other utilities](#other-utilities)
   - [Resources](#resources)
-    - [Youtube channels](youtube-channels)
-  - [Who to follow](#who-to-follow)
+    - [Youtube channels](#youtube-channels)
+  - [People to follow](#people-to-follow)
   - [Other awesomeness](#other-awesomeness)
 
 - - -
@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Recurring-Integrations-Scheduler](https://github.com/Microsoft/Recurring-Integrations-Scheduler) - File-based integration solution for D365FO.
 * [Dynamics-AX-Integration](https://github.com/Microsoft/Dynamics-AX-Integration) - Dynamics AX Integration samples and demos.
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
-* [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets
+* [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets.
 
 ## Add-ins
 
@@ -41,22 +41,22 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Repositories containing X++ code*
 
-* [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples
-* [AOT Browser](https://github.com/arbelatech/aotbrowser) - Dynamics 365 for Finance and Operations AOT Browser
-* [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations
-* [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon
-* [D365FOAdminToolkit](https://github.com/ameyer505/D365FOAdminToolkit) - A D365FO administrative toolkit built by the community for the community
+* [XppTools](https://github.com/TrudAX/XppTools) - Useful X++ utilities and code samples.
+* [AOT Browser](https://github.com/arbelatech/aotbrowser) - Dynamics 365 for Finance and Operations AOT Browser.
+* [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.
+* [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon.
+* [D365FOAdminToolkit](https://github.com/ameyer505/D365FOAdminToolkit) - A D365FO administrative toolkit built by the community for the community.
 
 ## Scripts
 
 *PowerShell scripts*
 
 * [D365FO-Prepare-D365DevelopmentMachine](https://github.com/dodiggitydag/D365FO-Prepare-D365DevelopmentMachine) - Script for preparing a development machine for D365FO by installing additional tools and configuring the operating system automatically.
-* [d365fo.tools](https://github.com/d365collaborative/d365fo.tools) - Powershell module to handle the different management tasks
+* [d365fo.tools](https://github.com/d365collaborative/d365fo.tools) - Powershell module to handle the different management tasks.
 * [d365fo.integrations](https://github.com/d365collaborative/d365fo.integrations) - Powershell functions for integration with D365FO.
 * [DynamicsAxTools](https://github.com/bferreti/DynamicsAxTools) - Scripts set to monitor and generate AX performance reports. 
 * [Dynamics365-Xpp-Samples-Tools](https://github.com/bferreti/DynamicsAxTools) - Contains samples of code, scripts and tools related to X++ or X++ tools.
-* [TRUD Scripts](https://github.com/TrudAX/TRUDScripts/tree/master/D365FO) - Scripts to manage D365FO development process
+* [TRUD Scripts](https://github.com/TrudAX/TRUDScripts/tree/master/D365FO) - Scripts to manage D365FO development process.
 
 
 ## Other utilities
@@ -64,34 +64,34 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Other useful programs*
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
-* [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app
+* [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app.
 
 ## Resources
 
 *Resources with good learning material*
 
-* [Microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dynamics-365&products=dynamics-finance-operations%2Cdynamics-scm&roles=developer) - Official free Microsoft Dynamics 365FO trainings 
-* [Dynamics 365 Success by Design Implementation Guide](https://www.d365implementationguide.com/books/asvr/#p=1) - Dynamics 365 Implementation Guide interactive book
-* [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare for D365FO related certifications(but may be blocked from the US or other locations)
+* [Microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dynamics-365&products=dynamics-finance-operations%2Cdynamics-scm&roles=developer) - Official free Microsoft Dynamics 365FO trainings.
+* [Dynamics 365 Success by Design Implementation Guide](https://www.d365implementationguide.com/books/asvr/#p=1) - Dynamics 365 Implementation Guide interactive book.
+* [ExamTopics - Expert Verified, Online, Free certification questions](https://www.examtopics.com/exams/microsoft/mb-300/) - a lot of free certification questions to prepare for D365FO related certifications(but may be blocked from the US or other locations).
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks) - FastTrack TechTalks provide technical and functional best practices and guidance for Dynamics 365 deployments.
 * [Dynamics 365 FastTrack Architecture Insights](https://docs.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/) - Recommended implementation practices across Customer Engagement and Finance & Operations apps. The content is created and shared by the solution architects from the Dynamics 365 engineering team.
 
 ### Youtube channels
 * [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed at software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.
-* [Microsoft Dynamics 365 Community](https://www.youtube.com/@MSD365Community) - Microsoft Dynamics 365 Community channel
+* [Microsoft Dynamics 365 Community](https://www.youtube.com/@MSD365Community) - Microsoft Dynamics 365 Community channel.
 
 
 ## People to follow
 
 *People that add great value to the community and often share good hints*
 
-* [Mötz Jensen](https://twitter.com/splaxi) - Co-Author on the #D365FOTools powershell module
+* [Mötz Jensen](https://twitter.com/splaxi) - Co-Author on the #D365FOTools powershell module.
 * [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
-* [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP
-* [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP
+* [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP.
+* [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP.
 * [Denis Trunin](https://denistrunin.com/about/) - Curator of this list and future MVP.
-* [Who to follow on LinkedIn to stay informed about D365FO](https://www.linkedin.com/pulse/who-follow-linkedin-stay-informed-d365fo-hylke-britstra-26qve/) - LinkedIn list from Hylke Britstra
+* [Who to follow on LinkedIn to stay informed about D365FO](https://www.linkedin.com/pulse/who-follow-linkedin-stay-informed-d365fo-hylke-britstra-26qve/) - LinkedIn list from Hylke Britstra.
 
 ## Other awesomeness
 

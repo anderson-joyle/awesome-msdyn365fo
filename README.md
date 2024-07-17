@@ -80,7 +80,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed at software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.
 * [Microsoft Dynamics 365 Community](https://www.youtube.com/@MSD365Community) - Microsoft Dynamics 365 Community channel.
-* [D365FO Electronic Reporting (GER) From Scratch](https://www.youtube.com/watch?v=ILCfl8xsobo&list=PL96hp9Q2HCy9OlJBM0YK6t6V5MUpS7DYp) - ER series from Fernando Tudela
+* [D365FO Electronic Reporting (GER) From Scratch](https://www.youtube.com/watch?v=ILCfl8xsobo&list=PL96hp9Q2HCy9OlJBM0YK6t6V5MUpS7DYp) - ER series from Fernando Tudela.
 
 
 

@@ -65,6 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
 * [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app.
+* [MXT - X++ Interpreter](https://github.com/milnet92/MXTXppInterpreter) - X++ Interpreter for D365FO.
 
 ## Resources
 

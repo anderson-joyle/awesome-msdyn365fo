@@ -37,7 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [D365FO-ExcelFinancialDimensionLookups](https://github.com/anderson-joyle/D365FO-ExcelFinancialDimensionLookups) - Works as a complement of "Add financial dimensions for OData" native add-in.
 * [D365FO-ReportLatestLogFile](https://github.com/anderson-joyle/D365FO-ReportLatestLogFile) - Opens the latest reporting service log file. Useful to troubleshoot report problems.
 
-## X++ code examples
+## X++ tools
 
 *Repositories containing X++ code*
 
@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Docentric AX Free Edition](https://ax.docentric.com/free-edition/) - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.
 * [Dynamicspedia downloads](https://dynamicspedia.com/downloads/) - Different utilities from André Arnaud de Calavon.
 * [D365FOAdminToolkit](https://github.com/ameyer505/D365FOAdminToolkit) - A D365FO administrative toolkit built by the community for the community.
+* [MXT - X++ Interpreter](https://github.com/milnet92/MXTXppInterpreter) - X++ Interpreter for D365FO.
 
 ## Scripts
 
@@ -65,7 +66,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
 * [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app.
-* [MXT - X++ Interpreter](https://github.com/milnet92/MXTXppInterpreter) - X++ Interpreter for D365FO.
 
 ## Resources
 

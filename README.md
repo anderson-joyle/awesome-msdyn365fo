@@ -66,6 +66,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [LabelFileGenerator](https://github.com/ptornich/LabelFileGenerator) - Generate label files for D365FO core models in specific languages.
 * [2LCS](https://github.com/microsoft/2LCS) - 2LCS - Lifecycle Services companion app.
+* [Dynamics 365 Finance APIs](https://www.postman.com/anthonyblakedev/workspace/dynamics-365-finance-apis/overview) - Public Postman Workspace for Integrations
 
 ## Resources
 

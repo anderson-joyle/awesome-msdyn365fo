@@ -79,9 +79,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dynamics 365 FastTrack Architecture Insights](https://docs.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/) - Recommended implementation practices across Customer Engagement and Finance & Operations apps. The content is created and shared by the solution architects from the Dynamics 365 engineering team.
 * [Microsoft Yammer/VivaEngage](https://www.yammer.com/dynamicsaxfeedbackprograms/) - You can find groups dedicated to specific topics to ask questions and help others. Program Managers for particular modules, apps or integrations participate in conversations sometimes and provide their insights and announcements, especially around preview features.
 
-
-* https://www.yammer.com/dynamicsaxfeedbackprograms
-
 ### Youtube channels
 * [Dynamics 365 for Finance and Operations](https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured) - Aimed at software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.
 * [Microsoft Dynamics 365 Unified Operations](https://www.youtube.com/watch?v=46ylO7raZAo&list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) - Official Microsoft D365FO playlist.

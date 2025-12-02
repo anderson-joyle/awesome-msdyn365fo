@@ -26,7 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Microsoft Dynamics 365 FastTrack TechTalks](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks)
 * [Dynamics-365-FastTrack-Implementation-Assets Public](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation Assets.
 * [dynamics365patternspractices](https://github.com/microsoft/dynamics365patternspractices) - Collaboration on patterns and practices, business processes, and other guidance.
-* [Dynamics 365 Partner Hub](https://dynamicspartners.transform.microsoft.com/gtm/modernize-erp) - Sales documents(Slides/Presentations/Marketing assets). May require partner account.
+* [Dynamics 365 Partner Hub](https://dynamicspartners.transform.microsoft.com/gtm/modernize-erp) - Sales documents(Slides/Presentations/Marketing assets). May require a partner account.
 
 ## Add-ins
 
@@ -57,7 +57,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *PowerShell scripts*
 
 * [D365FO-Prepare-D365DevelopmentMachine](https://github.com/dodiggitydag/D365FO-Prepare-D365DevelopmentMachine) - Script for preparing a development machine for D365FO by installing additional tools and configuring the operating system automatically.
-* [d365fo.tools](https://github.com/d365collaborative/d365fo.tools) - Powershell module to handle the different management tasks.
+* [d365fo.tools](https://github.com/d365collaborative/d365fo.tools) - PowerShell module to handle the different management tasks.
 * [d365fo.integrations](https://github.com/d365collaborative/d365fo.integrations) - Powershell functions for integration with D365FO.
 * [DynamicsAxTools](https://github.com/bferreti/DynamicsAxTools) - Scripts set to monitor and generate AX performance reports. 
 * [Dynamics365-Xpp-Samples-Tools](https://github.com/bferreti/DynamicsAxTools) - Contains samples of code, scripts and tools related to X++ or X++ tools.
@@ -100,10 +100,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## People to follow
 
-*People that add great value to the community and often share good hints*
+*People who add great value to the community and often share good hints*
 
 * [Mötz Jensen](https://twitter.com/splaxi) - Co-Author on the #D365FOTools powershell module.
-* [José Antonio Estevan](https://twitter.com/jaestevan) - Microsoft PFE team.
 * [Ievgen Miroshnikov](https://twitter.com/IevgenMir) - Microsoft MVP.
 * [Juan Antonio Tomás](https://twitter.com/juanan169) - Microsoft MVP.
 * [Denis Trunin](https://denistrunin.com/about/) - Curator of this list and future MVP.
